@@ -1,4 +1,5 @@
 LiveBlock
-=========================
-View unconfirmed transactions live from Blockchain
-// Jackson Tullis 
+========================= 
+ *View unconfirmed Blockchain transactions live* <br/>
+ Created using Blockchain.info and some JS libraries <br/>
+ by Jackson Tullis 
